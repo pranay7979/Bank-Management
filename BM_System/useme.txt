@@ -1,0 +1,53 @@
+PS D:\Bank-Management-System\BM_System\src> javac -cp ".;..\mysql-connector-java-8.0.22.jar" def_pkg\DB_Handler.java def_pkg\*.java
+java -cp ".;..\mysql-connector-java-8.0.22.jar" def_pkg.BM_System
+
+
+SQL-
+D:\Bank-Management-System>mysql -u root -p
+password-pushpaingle7979
+
+userid- pranay7979
+password-7979
+
+CNIC- computerized national identity card number
+
+sign in using manager login then create account
+then use that signup details
+
+make userid and password
+
+
+
+Manager login - 
+(Pranay)
+userid-manager123
+password- mypass12
+
+Accountant Login-
+(Devendra)
+userid-accountant
+password-pass1234
+
+userid -accountant2
+password-pass1234
+
+
+Customer-
+(Satyam Mishra)
+Account No. - 500005
+userid - satyam01
+password - satyam0
+
+Tirth
+Account No. -500006
+CNic-123654789
+userid- tirth
+password- tirth123
+
+Awanish
+CNIC- 147258369
+Account No.-500007
+userid- awanish
+password- awanish1
+
+
